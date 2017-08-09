@@ -1,0 +1,1 @@
+random_seed initial_model number_of_initial_kmeans_trials, max_iterations_in_initial_clustering(GMM/BGMM), max_EM_iterations_in_MRF, max_ICM_iterations, weight_concentration_prior(for BGMM only)
